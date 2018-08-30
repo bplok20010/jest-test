@@ -18,5 +18,8 @@
   "homepage": "https://github.com/bplok20010/jest-test#readme",
   "devDependencies": {
     "jest": "^23.5.0"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
   }
 }
