@@ -1,0 +1,22 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bplok20010/jest-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bplok20010/jest-test/issues"
+  },
+  "homepage": "https://github.com/bplok20010/jest-test#readme",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
